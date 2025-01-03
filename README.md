@@ -24,3 +24,6 @@ Collaboration: Allows multiple developers to work on the same project without co
 CI/CD: Automates code testing, building, and deployment using Git triggers.
 Rollback: Enables reverting to previous versions if needed.
 Automated Testing: Runs tests automatically in CI pipelines when new commits are made. 
+
+
+more quetion will add 
